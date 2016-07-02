@@ -1,0 +1,27 @@
+{
+  "name": "bug-free-dollop",
+  "version": "1.0.0",
+  "description": "Swear like crazy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacquelinepeh/bug-free-dollop.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Jac & Yish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacquelinepeh/bug-free-dollop/issues"
+  },
+  "homepage": "https://github.com/jacquelinepeh/bug-free-dollop#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.72.0"
+  }
+}
